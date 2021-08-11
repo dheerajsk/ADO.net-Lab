@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "StudentListView";
+}
+
+<h2>StudentListView</h2>
+<div class="container">
+    <br />
+    <h4>List Of Students</h4>
+    <div class="row">
+        <div class="col-sm-7">
+            <div class="row">
+                <div class="col-sm-3">ID</div>
+                <div class="col-sm-3">Name</div>
+                <div class="col-sm-3">Year</div>
+            </div>
+            <hr />
+            @{
+                List<Student> students = (List<Student>)ViewData["students"];
+                foreach (Student st in students)
+                {
+                    <div class="row">
+                        <div class="col-sm-3">@st.ID</div>
+                        <div class="col-sm-3">@st.Name</div>
+                        <div class="col-sm-3">@st.Year</div>
+                    </div>
+                }
+            }
+            <div class="clearfix"></div><br />
+        </div>
+    </div>

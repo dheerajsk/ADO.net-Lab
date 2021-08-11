@@ -1,0 +1,43 @@
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\bin\Debug\netcoreapp3.1\ADO.net Lab.exe
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\bin\Debug\netcoreapp3.1\ADO.net Lab.deps.json
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\bin\Debug\netcoreapp3.1\ADO.net Lab.runtimeconfig.json
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\bin\Debug\netcoreapp3.1\ADO.net Lab.runtimeconfig.dev.json
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\bin\Debug\netcoreapp3.1\ADO.net Lab.dll
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\bin\Debug\netcoreapp3.1\ADO.net Lab.pdb
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\bin\Debug\netcoreapp3.1\ADO.net Lab.Views.dll
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\bin\Debug\netcoreapp3.1\ADO.net Lab.Views.pdb
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\obj\Debug\netcoreapp3.1\ADO.net Lab.csprojAssemblyReference.cache
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\obj\Debug\netcoreapp3.1\ADO.net Lab.AssemblyInfoInputs.cache
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\obj\Debug\netcoreapp3.1\ADO.net Lab.AssemblyInfo.cs
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\obj\Debug\netcoreapp3.1\ADO.net Lab.csproj.CoreCompileInputs.cache
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\obj\Debug\netcoreapp3.1\ADO.net Lab.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\obj\Debug\netcoreapp3.1\ADO.net Lab.RazorAssemblyInfo.cache
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\obj\Debug\netcoreapp3.1\ADO.net Lab.RazorAssemblyInfo.cs
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\obj\Debug\netcoreapp3.1\staticwebassets\ADO.net Lab.StaticWebAssets.Manifest.cache
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\obj\Debug\netcoreapp3.1\staticwebassets\ADO.net Lab.StaticWebAssets.xml
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\obj\Debug\netcoreapp3.1\scopedcss\bundle\ADO.net Lab.styles.css
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\obj\Debug\netcoreapp3.1\ADO.net Lab.TagHelpers.input.cache
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\obj\Debug\netcoreapp3.1\ADO.net Lab.TagHelpers.output.cache
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\obj\Debug\netcoreapp3.1\ADO.net Lab.RazorCoreGenerate.cache
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\obj\Debug\netcoreapp3.1\ADO.net Lab.RazorTargetAssemblyInfo.cache
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\obj\Debug\netcoreapp3.1\ADO.net Lab.RazorTargetAssemblyInfo.cs
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\obj\Debug\netcoreapp3.1\ADO.net Lab.Views.pdb
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\obj\Debug\netcoreapp3.1\ADO.net Lab.csproj.CopyComplete
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\obj\Debug\netcoreapp3.1\ADO.net Lab.dll
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\obj\Debug\netcoreapp3.1\ADO.net Lab.pdb
+C:\Users\Shree\source\repos\ADO.net Lab\ADO.net Lab\obj\Debug\netcoreapp3.1\ADO.net Lab.genruntimeconfig.cache
